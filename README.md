@@ -31,30 +31,13 @@ Trained a Random Forest classifier.
 Searched a selection of hyperparameter combinations using stratified cross-validation.
 Evaluated test-set performance.
 Examined feature importance.
-Tools and Libraries
+Tools and Libraries:-
 Python
 pandas and NumPy
 scikit-learn
 Matplotlib
 Seaborn
 Google Colab and Google Drive
-Project Structure
-Codveda_ML_Level_1/
-├── data/
-│   └── raw/
-│       └── Telco-Customer-Churn.csv
-├── notebooks/
-│   └── Telco_Customer_Churn_KNN.ipynb
-├── results/
-│   ├── basic_task1_preprocessing_summary.csv
-│   ├── basic_task3_knn_k_comparison.csv
-│   ├── basic_task3_knn_baseline_metrics.csv
-│   ├── basic_task3_knn_confusion_matrix.csv
-│   ├── logistic_regression_metrics.csv
-│   ├── random_forest_metrics.csv
-│   ├── random_forest_feature_importance.csv
-│   └── random_forest_best_parameters.csv
-└── README.md
 
 The results directory may contain additional outputs generated during experimentation.
 How to Run
